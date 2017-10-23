@@ -1,4 +1,4 @@
-# Music-Search-and-Generation-based-on-Music-Character
+# Music-Search-and-Generation
 In this data project, we develop algorithms to
 1. Predict music character labels (such as danceability, instrumentalness, valence, etc) based on a subset of labeled data
 2. Train a music generator based on RNN to create new music tracks with user-specified music character.
